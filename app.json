@@ -31,13 +31,13 @@
 
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required": false
     },
 
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "true",
+      "value": "false",
       "required": false
     },
     "BOT_NAME": {
