@@ -1,7 +1,7 @@
 {
-  "name": "wasi-md-v2",
+  "name": "DRABOT",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "",
   "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
   "success_url": "/",
   "stack": "container",
@@ -25,7 +25,7 @@
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://www.looper.com/img/gallery/why-zoro-from-netflixs-one-piece-looks-so-familiar/l-intro-1636741629.jpg",
+      "value": "",
       "required" : true
     },
 
